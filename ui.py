@@ -4,7 +4,6 @@ from quiz_brain import QuizBrain
 THEME_COLOR = "#375362"
 FONT_NAME = "Arial"
 
-
 class QuizInterface:
 
     def __init__(self, quiz_brain: QuizBrain):
